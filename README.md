@@ -1,3 +1,4 @@
+Welcome to Vision Villa Mae, your gateway to a world where luxury meets creativity. Powered by Next.js and MongoDB, our platform not only offers exquisite villa experiences but also serves as a vibrant marketplace of art. With Next-Auth integration ensuring secure access.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
