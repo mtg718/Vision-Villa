@@ -1,10 +1,11 @@
 Welcome to Vision Villa Mae, your gateway to a world where luxury meets creativity. Powered by Next.js and MongoDB, our platform not only offers exquisite villa experiences but also serves as a vibrant marketplace of art. With Next-Auth integration ensuring secure access.
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project made with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
 ![Vision Villa Project mp4 - VLC media player 24-03-2024 09_40_29](https://github.com/mtg718/Vision-Villa/assets/135738292/2181881a-0bff-4b19-be86-41df25166570)
 
 
+![Vision Villa Project mp4 - VLC media player 24-03-2024 09_47_17](https://github.com/mtg718/Vision-Villa/assets/135738292/c41b4d36-e6f4-4b61-9fa9-64f07f5e13b8)
 
 ![Vision Villa Project mp4 - VLC media player 24-03-2024 09_40_56](https://github.com/mtg718/Vision-Villa/assets/135738292/a96dd1f5-960a-4d03-ada6-a025c3980241)
 
